@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Mechanical Keyboard",
+      "description": "Compact mechanical keyboard with blue switches and customizable RGB lighting.",
+      "images": [
+        "https://picsum.photos/400/400?random=2"
+      ],
+      "price": 59.99,
+      "rating": 4.8,
+      "currency": "USD"
+    },
+    {
+      "id": "3",
+      "name": "Gaming Headset",
+      "description": "Surround sound gaming headset with noise-cancelling microphone.",
+      "images": [
+        "https://picsum.photos/400/400?random=3",
+        "https://picsum.photos/400/400?random=13"
+      ],
+      "price": 45.5,
+      "rating": 4.6,
+      "currency": "USD"
+    },
+    {
+      "id": "4",
+      "name": "Smart Watch",
+      "description": "Modern smartwatch with fitness tracking and heart rate monitor.",
+      "images": [
+        "https://picsum.photos/400/400?random=4",
+        "https://picsum.photos/400/400?random=14"
+      ],
+      "price": 89.99,
+      "rating": 4.5,
+      "currency": "USD"
+    },
+    {
+      "id": "5",
+      "name": "Bluetooth Speaker",
+      "description": "Portable waterproof Bluetooth speaker with deep bass sound.",
+      "images": [
+        "https://picsum.photos/400/400?random=5",
+        "https://picsum.photos/400/400?random=15"
+      ],
+      "price": 39.99,
+      "rating": 4.4,
+      "currency": "USD"
+    },
+    {
+      "id": "6",
+      "name": "Laptop Backpack",
+      "description": "Durable anti-theft laptop backpack with USB charging port.",
+      "images": [
+        "https://picsum.photos/400/400?random=6",
+        "https://picsum.photos/400/400?random=16"
+      ],
+      "price": 34.99,
+      "rating": 4.3,
+      "currency": "USD"
+    },
+    {
+      "id": "7",
+      "name": "4K Monitor",
+      "description": "Ultra HD 27-inch monitor perfect for gaming and productivity.",
+      "images": [
+        "https://picsum.photos/400/400?random=7",
+        "https://picsum.photos/400/400?random=17"
+      ],
+      "price": 249.99,
+      "rating": 4.9,
+      "currency": "USD"
+    },
+    {
+      "id": "8",
+      "name": "Wireless Earbuds",
+      "description": "Noise-cancelling wireless earbuds with long battery life.",
+      "images": [
+        "https://picsum.photos/400/400?random=8",
+        "https://picsum.photos/400/400?random=18"
+      ],
+      "price": 49.99,
+      "rating": 4.5,
+      "currency": "USD"
+    },
+    {
+      "id": "9",
+      "name": "Gaming Chair",
+      "description": "Comfortable ergonomic gaming chair with adjustable height.",
+      "images": [
+        "https://picsum.photos/400/400?random=9",
+        "https://picsum.photos/400/400?random=19"
+      ],
+      "price": 159.99,
+      "rating": 4.7,
+      "currency": "USD"
+    },
+    {
+      "id": "10",
+      "name": "External SSD",
+      "description": "Fast portable SSD with 1TB storage and USB-C support.",
+      "images": [
+        "https://picsum.photos/400/400?random=10",
+        "https://picsum.photos/400/400?random=20"
+      ],
+      "price": 119.99,
+      "rating": 4.8,
+      "currency": "USD"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
